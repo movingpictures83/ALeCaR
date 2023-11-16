@@ -1,0 +1,2 @@
+Prefix plugins/ALeCaR/example
+Plugin ALeCaR inputfile parameters.txt outputfile output.txt
